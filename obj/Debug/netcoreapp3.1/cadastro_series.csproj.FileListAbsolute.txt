@@ -1,0 +1,13 @@
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.exe
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.deps.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.runtimeconfig.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.runtimeconfig.dev.json
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.dll
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\bin\Debug\netcoreapp3.1\cadastro_series.pdb
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.csprojAssemblyReference.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.AssemblyInfoInputs.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.AssemblyInfo.cs
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.csproj.CoreCompileInputs.cache
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.dll
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.pdb
+C:\Users\ludmila\Documents\essa\OneDrive\Área de Trabalho\mc\dio\cadastro_series\obj\Debug\netcoreapp3.1\cadastro_series.genruntimeconfig.cache
